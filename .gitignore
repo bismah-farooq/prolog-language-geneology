@@ -1,0 +1,7 @@
+# Ignore logs and output files
+*.log
+*.out
+
+# Ignore accidental folders
+Documents/
+
